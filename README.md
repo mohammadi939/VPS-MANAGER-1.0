@@ -18,4 +18,4 @@ __Alterar senha Root__
 
 ```sudo -i```
 
-```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/VPS-MANAGER-1.0/main/senharoot.sh)```
+```bash <(wget -qO- https://raw.githubusercontent.com/mohammadi939/VPS-MANAGER-1.0/main/passroot.sh)```
